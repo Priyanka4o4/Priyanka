@@ -5366,7 +5366,7 @@ i.fa {
 }
 t*/
 [data-carousel-3d] [data-prev-button]:before {
-  content: url("./images/slider/prev.png");
+  content: url("https://priyanka4o4.github.io/Priyanka/wp-content/themes/fportfolio/images/slider/prev.png");
   position: absolute;
   top: 0;
   bottom: 0;
@@ -5378,7 +5378,7 @@ t*/
 }
 
 [data-carousel-3d] [data-next-button]:before {
-  content: url("./images/slider/next.png");
+  content: url("https://priyanka4o4.github.io/Priyanka/wp-content/themes/fportfolio/images/slider/next.png");
   position: absolute;
   top: 0;
   bottom: 0;
